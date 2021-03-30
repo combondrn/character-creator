@@ -37,10 +37,11 @@
 
 .characterWrapper {
   position: fixed;
-  top: 0px;
-  right: 0px;
+  top: 15%;
+  left: 60%;
+  bottom: 5%;
   min-height: 500px;
-  max-width: max(calc(100vw - (1024px * 0.65)), 400px);
+  /* max-width: max(calc(100vw - (1024px * 0.65)), 400px); */
 }
 
 .controlColumn {
